@@ -1,0 +1,1 @@
+display dialog "Ç’ÇÈÇËÇ≠Ç£Å`Å`Å`" buttons "OK" default button "OK"
